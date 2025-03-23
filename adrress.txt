@@ -1,0 +1,10 @@
+Arbitrum Sepolia rebase token address: 0x26C67dEaBB66C7ada73659C628c994cfAb82166d
+Arbitrum Sepolia pool address: 0x6F428bCf448429cd0747A0837A7DCf97A3ee8535
+Sepolia rebase token address: 0xa98Dc8D48C96705c8EfB3557fE5acbD4402122cD
+Sepolia pool address: 0x8fC90c833F927BE663f86154846dc9dc032CD418
+vault: contract Vault 0xF8f81233a37a4966337ec2707a5e221dC8b47ED5
+
+TX : https://ccip.chain.link/#/side-drawer/msg/0x884d69295a38fa0f2dd5dcc9a425e50356380b1994ff000a4c30ec9c42760855
+https://sepolia.arbiscan.io/tx/0x26200c6fb6e650189801d7dc18b595a4d29928f7157cacd505883de7875d594f
+
+query: { enabled: isConnected && !!address },

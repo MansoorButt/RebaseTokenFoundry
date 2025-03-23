@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+.qodo
+node_modules

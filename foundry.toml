@@ -2,5 +2,6 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+rpc_endpoints = {sepolia-eth="${SEPOLIA_RPC_URL}",arb-sepolia="${ARBITRUM_SEPOLIA_RPC_URL}"}
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
